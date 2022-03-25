@@ -1,5 +1,13 @@
 # aws-sdk-js-codemod
 
+## 0.5.2
+
+### Patch Changes
+
+- Use require for custom changelog script ([9413715](https://github.com/awslabs/aws-sdk-js-codemod/commit/9413715))
+- Enable @changesets/changelog-github ([f8ab5e1](https://github.com/awslabs/aws-sdk-js-codemod/commit/f8ab5e1))
+- Add custom changelog script ([c9ff137](https://github.com/awslabs/aws-sdk-js-codemod/commit/c9ff137))
+
 ## 0.5.1
 
 ### Patch Changes
